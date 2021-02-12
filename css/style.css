@@ -85,7 +85,7 @@ p {
   .social-media-container .maps {
     color: red;
   }
-  
+
   .info-container {
     background: #fff;
     width: 100%;
@@ -101,6 +101,13 @@ p {
     color: #303030;
   }
   
+  .content img{
+    position: relative;
+    width: 100%;
+    height: 250px;
+    border-radius: 16px;
+     
+  }
   .video-container {
     overflow: hidden;
     position: relative;
